@@ -1,0 +1,279 @@
+{
+  "seen": {
+    "ORE_USDT": {
+      "listingTimestampMs": 1762431360000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "CHILLHOUSE_USDT": {
+      "listingTimestampMs": 1761642000000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "ELIZAOS_USDT": {
+      "listingTimestampMs": 1762482600000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "CARDS_USDT": {
+      "listingTimestampMs": 1756879920000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "GP_USDT": {
+      "listingTimestampMs": 1752839145000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "STARTUP_USDT": {
+      "listingTimestampMs": 1747288458000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "1_USDT": {
+      "listingTimestampMs": 1762335900000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "BAGWORK_USDT": {
+      "listingTimestampMs": 1757829300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "TEAFI_USDT": {
+      "listingTimestampMs": 1762174200000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "KIND_USDT": {
+      "listingTimestampMs": 1757919600000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "BNBHOLDER_USDT": {
+      "listingTimestampMs": 1759998600000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "RAIL_USDT": {
+      "listingTimestampMs": 1760096460000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "MEMERUSH_USDT": {
+      "listingTimestampMs": 1760086800000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "CLASH_USDT": {
+      "listingTimestampMs": 1759464720000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "XNL_USDT": {
+      "listingTimestampMs": 1761739800000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "BROCCOLIF3B_USDT": {
+      "listingTimestampMs": 1739963083000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "FUNSOL_USDT": {
+      "listingTimestampMs": 1761645300000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "REX_USDT": {
+      "listingTimestampMs": 1736416920000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "PUP_USDT": {
+      "listingTimestampMs": 1760019600000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "QUBIC_USDT": {
+      "listingTimestampMs": 1727317791000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "CULT_USDT": {
+      "listingTimestampMs": 1737261905000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "BAKE_USDT": {
+      "listingTimestampMs": 1662611245000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "BDX_USDT": {
+      "listingTimestampMs": 1762252920000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "DAM_USDT": {
+      "listingTimestampMs": 1755515400000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "NVIDIA_USDT": {
+      "listingTimestampMs": 1753281902000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "PLAY_USDT": {
+      "listingTimestampMs": 1753954200000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "OPENLEDGER_USDT": {
+      "listingTimestampMs": 1757329800000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "PLTRSTOCK_USDT": {
+      "listingTimestampMs": 1757598300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "TESLA_USDT": {
+      "listingTimestampMs": 1753279074000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "GOOGLSTOCK_USDT": {
+      "listingTimestampMs": 1753443730000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "BLOCK_USDT": {
+      "listingTimestampMs": 1755232200000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "EAT_USDT": {
+      "listingTimestampMs": 1761737820000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "CRCLSTOCK_USDT": {
+      "listingTimestampMs": 1753701675000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "COINBASE_USDT": {
+      "listingTimestampMs": 1753278662000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "AAPLSTOCK_USDT": {
+      "listingTimestampMs": 1753432062000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "MSTRSTOCK_USDT": {
+      "listingTimestampMs": 1757598300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "METASTOCK_USDT": {
+      "listingTimestampMs": 1753443671000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "AMDSTOCK_USDT": {
+      "listingTimestampMs": 1758116880000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "MAMO_USDT": {
+      "listingTimestampMs": 1754388300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "APPSTOCK_USDT": {
+      "listingTimestampMs": 1758116700000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "AMZNSTOCK_USDT": {
+      "listingTimestampMs": 1753443817000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "MSFTSTOCK_USDT": {
+      "listingTimestampMs": 1757598300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "ROBINHOOD_USDT": {
+      "listingTimestampMs": 1753282275000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "FIGSTOCK_USDT": {
+      "listingTimestampMs": 1754046411000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "NFLXSTOCK_USDT": {
+      "listingTimestampMs": 1757598300000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "QQQSTOCK_USDT": {
+      "listingTimestampMs": 1761743040000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "BABASTOCK_USDT": {
+      "listingTimestampMs": 1758117000000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "ADBESTOCK_USDT": {
+      "listingTimestampMs": 1758117000000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "MCDSTOCK_USDT": {
+      "listingTimestampMs": 1753443617000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "ORCLSTOCK_USDT": {
+      "listingTimestampMs": 1758116700000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "INTCSTOCK_USDT": {
+      "listingTimestampMs": 1761742800000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "AVGOSTOCK_USDT": {
+      "listingTimestampMs": 1757598180000,
+      "firstDayCaptured": false,
+      "lastChecked": 1762516623703
+    },
+    "VSTOCK_USDT": {
+      "listingTimestampMs": 1761742980000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "QCOMSTOCK_USDT": {
+      "listingTimestampMs": 1761742800000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    },
+    "MUSTOCK_USDT": {
+      "listingTimestampMs": 1761742800000,
+      "firstDayCaptured": true,
+      "lastChecked": 1762516623703
+    }
+  }
+}
